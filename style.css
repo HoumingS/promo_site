@@ -1,5 +1,80 @@
-@import url('https://fonts.googleapis.com/css2?family=GFS+Didot&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap');
 body {
-  font-family: 'GFS Didot', serif;
+  background-color: #63EB00;
 
+}
+
+body h1{
+  font-family: 'Righteous', cursive;
+  text-align:center;
+  font-size: 80px;
+  color: #FFFFFF;
+background: #63EB00;
+text-shadow: 0 0 5px #92F500, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #92F500, 0 0 30px #92F500, 0 0 40px #92F500, 0 0 55px #92F500, 0 0 75px #92F500, 2px 2px 3px rgba(0,0,0,0.78);
+}
+
+.content{
+  font-size: 25px;
+  font-family: 'Righteous', cursive;
+
+}
+
+mark{
+  background-color: #FFFFFF
+}
+
+.content2{
+  font-size: 25px;
+  font-family: 'Righteous', cursive;
+  position: absolute; bottom: 0; right: 0; width: 500px; text-align:right;
+}
+
+.image img{
+  width:300px;
+  position:absolute;
+  top:200px;
+  right:700px;
+}
+
+.fname{
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 60px;
+  position:absolute;
+  top:130px;
+  right:650px;
+  color: #A7DD3C;
+
+  text-shadow: 2px 0 0px #B9E9B4, 3px 2px 0px #8BEB7F, 3px 0 3px #FFFFFF, 5px 0 3px #C4EBB6, 6px 2px 3px #B9E9B4, 6px 0 9px #E3E9DF, 8px 0 9px #802A00, 9px 2px 9px #000000, 9px 0 18px #FFD500, 11px 0 18px #806A00, 12px 2px 18px rgba(77,66,0,0.5), 12px 0 30px #D4FF00, 14px 0 30px #6A8000, 15px 2px 30px rgba(64,77,0,0.5), 15px 0 45px #80FF00, 17px 0 45px #408000, 17px 2px 45px rgba(38,77,0,0.5);
+}
+.lname{
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 60px;
+  position:absolute;
+  top:130px;
+  right:600px;
+  color: #A7DD3C;
+
+  text-shadow: 2px 0 0px #B9E9B4, 3px 2px 0px #8BEB7F, 3px 0 3px #FFFFFF, 5px 0 3px #C4EBB6, 6px 2px 3px #B9E9B4, 6px 0 9px #E3E9DF, 8px 0 9px #802A00, 9px 2px 9px #000000, 9px 0 18px #FFD500, 11px 0 18px #806A00, 12px 2px 18px rgba(77,66,0,0.5), 12px 0 30px #D4FF00, 14px 0 30px #6A8000, 15px 2px 30px rgba(64,77,0,0.5), 15px 0 45px #80FF00, 17px 0 45px #408000, 17px 2px 45px rgba(38,77,0,0.5);
+}
+
+.image2 img{
+  width:500px;
+  position:absolute;
+  top:650px;
+  left:50px;
+}
+
+.intro{
+  font-family: 'Righteous', cursive;
+  font-size: 25px;
+  position:absolute;
+  top:700px;
+  left:580px;
+}
+
+.vd{
+  position:absolute;
+  top:950px;
+  left:900px;
 }
